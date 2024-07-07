@@ -32,3 +32,12 @@ export default function RootLayout({ children }) {
 // page.js: body태그에 작성할 코드
 // global.css: layout.js에 포함된 css (모든곳에서 사용)
 // page.module.css: page.js 전용 css
+// favicon.ico 삭제 -> public 폴더에 이미지 넣기 -> 
+
+
+// vercerl에 업로드
+// github에 프로젝트 업로드
+// vercel 로그인
+// new Project
+// 업로드한 프로젝트 Import
+// [Install ]
